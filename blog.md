@@ -17,7 +17,6 @@ Next, we need to configure our API keys for OpenAI and Google:
 import os
 
 os.environ['OPENAI_API_KEY'] = "YOUR_OPENAI_API_KEY"
-os.environ['GOOGLE_API_KEY'] = "YOUR_GOOGLE_API_KEY"
 ```
 Replace `"YOUR_OPENAI_API_KEY"` and `"YOUR_GOOGLE_API_KEY"` with your actual keys obtained from the respective platforms.
 
