@@ -7,7 +7,7 @@ In this blog post, we'll explore how to build a simple yet powerful tweet genera
 First things first, let's install the necessary libraries:
 
 ```bash
-pip install -qU langchain langchain-openai langchain-google-genai
+pip install -qU langchain langchain-openai 
 ```
 This command installs `langchain`, `langchain-openai`, and `langchain-google-genai`, enabling us to work with OpenAI and Google's Gemini models.
 
